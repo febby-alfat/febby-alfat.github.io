@@ -26,14 +26,14 @@
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
-Access, [localhost:4000/zetsu](http://localhost:4000/zetsu/)
+Access, [localhost:4000/zetsu](http://localhost:4000/)
 
 ### Deploy in Github pages in 2 steps
 
 1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
 2. Run `rake site:publish` for build and publish on Github
 
-[Demo](https://nandomoreira.me/zetsu/)
+[Demo](https://nandomoreira.me/)
 
 ![Zetsu - free Jekyll theme](/screenshot.png)
 
